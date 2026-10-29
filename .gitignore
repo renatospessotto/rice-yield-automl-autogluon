@@ -1,0 +1,31 @@
+# Sistema e ambiente
+.DS_Store
+__MACOSX/
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Build do LaTeX
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.out
+build/
+
+# Modelos treinados pelo AutoGluon (regerados pelo notebook)
+AutogluonModels/
+
+# Dados pesados e checkpoints (baixe pelas instruções do README)
+data/raw/
+checkpoints/
+*.pt
+*.bin
+*.safetensors
+*.wav
+*.rar
+*.zip

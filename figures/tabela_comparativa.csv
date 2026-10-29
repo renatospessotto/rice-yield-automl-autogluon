@@ -1,0 +1,5 @@
+Cenário,Features,Linear Regression,SVR,XGBoost,AutoGluon,Melhor,AutoGluon − XGBoost (p.p.)
+Holdout 2021-2023,agri,32.38,121.15,13.72,7.2,AutoGluon,-6.52
+Holdout 2021-2023,clima,2.13,13.0,8.79,8.99,Linear Regression,0.2
+CV k=5,agri,34.87,137.23,12.47,5.05,AutoGluon,-7.42
+CV k=5,clima,34.6,121.0,11.3,6.55,AutoGluon,-4.75
